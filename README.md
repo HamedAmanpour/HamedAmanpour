@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HamedAmanpour
-- 👀 I’m interested in algorithms, graph theory, data science and algortihmic trading.
+- 👀 I’m interested in algorithms, graph theory, data science and algorithmic trading.
 - 🌱 I’m currently learning CS fundamentals.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hamed.amanpour@gmail.com
