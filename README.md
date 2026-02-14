@@ -1,10 +1,13 @@
-- Hi, I’m @HamedAmanpour
-- I’m interested in algorithms, graph theory, data science and algorithmic trading.
-- I’m currently learning CS fundamentals.
-- I’m looking to collaborate on ...
-- How to reach me hamed.amanpour@gmail.com
+# Hamed Amanpour
 
-<!---
-HamedAmanpour/HamedAmanpour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Research Focus
+AI Safety, Alignment, Mathematical Logic, Reasoning Systems
+
+## Current Interests
+- Long-horizon reasoning robustness
+- Hallucination analysis in formal domains
+- Symbolic + Neural hybrid systems
+- Alignment evaluation methodologies
+
+## Academic Email
+hamed.amanpour@aut.ac.ir
